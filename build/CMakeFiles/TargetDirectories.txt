@@ -1,0 +1,9 @@
+/home/santy/PROYECTO-FINAL-ALSE-/build/CMakeFiles/Inventario.dir
+/home/santy/PROYECTO-FINAL-ALSE-/build/CMakeFiles/edit_cache.dir
+/home/santy/PROYECTO-FINAL-ALSE-/build/CMakeFiles/rebuild_cache.dir
+/home/santy/PROYECTO-FINAL-ALSE-/build/CMakeFiles/list_install_components.dir
+/home/santy/PROYECTO-FINAL-ALSE-/build/CMakeFiles/install.dir
+/home/santy/PROYECTO-FINAL-ALSE-/build/CMakeFiles/install/local.dir
+/home/santy/PROYECTO-FINAL-ALSE-/build/CMakeFiles/install/strip.dir
+/home/santy/PROYECTO-FINAL-ALSE-/build/CMakeFiles/Inventario_autogen_timestamp_deps.dir
+/home/santy/PROYECTO-FINAL-ALSE-/build/CMakeFiles/Inventario_autogen.dir
